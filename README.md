@@ -10,3 +10,7 @@ Analysis of Canadian All-Cap Equity and CI Select Global Equity funds
 ### CI Canadian All Cap Equity
 - View on mybinder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KatrinaJames/ci/HEAD?urlpath=voila%2Frender%2Fcan_app%2Fcanadian_app.ipynb)
 - Or run locally using `python -m voila canadian_app.ipynb` from the `can_app` directory
+
+### CI Select Global Equity
+- View on mybinder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KatrinaJames/ci/HEAD?urlpath=voila%2Frender%2Fglobal_app%2Fglobal_app.ipynb)
+- Or run locally using `python -m voila global_app.ipynb` from the `global_app` directory
