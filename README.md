@@ -14,3 +14,8 @@ Analysis of Canadian All-Cap Equity and CI Select Global Equity funds
 ### CI Select Global Equity
 - View on mybinder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KatrinaJames/ci/HEAD?urlpath=voila%2Frender%2Fglobal_app%2Fglobal_app.ipynb)
 - Or run locally using `python -m voila global_app.ipynb` from the `global_app` directory
+
+## Conventions and Layout
+- Front end of apps are stored in `*_app` folders
+- Data from CI is stored in the `data` folder
+- Fetching data via public APIs and general data manipulation and number crunching contained in the `analysis` folder
